@@ -42,8 +42,12 @@ Python | Scapy | Nmap | Metasploit | Burp Suite | Wireshark | Elastic SIEM | Spl
 
 **Daily driver:** Fedora Linux (Niri compositor)
 
-**VMs:** Kali Linux · Metasploitable 2 · Windows Server (AD labs)
+**VMs:** Kali Linux | Metasploitable 2 | Windows Server (AD labs)
 
-**Tools:** Wireshark · Nmap · Cisco Packet Tracer · Burp Suite · virt-manager · ipcalc
+**Tools:** Wireshark |  Nmap  |  Cisco Packet Tracer  |  Burp Suite  |  virt-manager  |  ipcalc
+
+---
+
+🔗 [LinkedIn](https://www.linkedin.com/in/your-url-here) | CV available on request
 
 
