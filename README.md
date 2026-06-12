@@ -46,11 +46,4 @@ Python | Scapy | Nmap | Metasploit | Burp Suite | Wireshark | Elastic SIEM | Spl
 
 **Tools:** Wireshark · Nmap · Cisco Packet Tracer · Burp Suite · virt-manager · ipcalc
 
----
-
-📍 London, UK 
-
-🔗 [LinkedIn] | CV available on request
-
-📧 [mk2514k@gmail.com](mailto:mk2514k@gmail.com)
 
