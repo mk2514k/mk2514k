@@ -33,7 +33,7 @@ Python | Scapy | Nmap | Metasploit | Burp Suite | Wireshark | Elastic SIEM | Spl
 |------|------------|
 | [Network-Security-Labs](https://github.com/mk2514k/Network-Security-Labs) | Routing, VPN, ACL, and recon labs — IPsec, OSPF, Nmap, Nikto, Wireshark |
 | [Port-Scanner](https://github.com/mk2514k/Port-Scanner) | TCP port scanner with service banner grabbing and DNS enumeration — built from raw sockets |
-| [DNS-Recon-Tool](https://github.com/mk2514k/DNS_Recon) | DNS enumeration covering A/MX/TXT/NS records, AXFR zone transfer attempts, subdomain bruteforcing |
+| [DNS-Recon-Tool](https://github.com/mk2514k/DNS-Recon-Tool) | DNS enumeration covering A/MX/TXT/NS records, AXFR zone transfer attempts, subdomain bruteforcing |
 | [Overthewire-Bandit](https://github.com/mk2514k/Overthewire-Bandit) | Full write-up series documenting methodology and key learnings for each Bandit level |
 
 ---
