@@ -2,7 +2,7 @@
 
 Not just studying cybersecurity; building it. Every project here is functional tooling 
 or documented methodology, not tutorial output. Targeting SOC Analyst roles with a 
-clear progression toward Red Team / Purple Team
+clear progression toward Red Team / Purple Team.
 
 ---
 
