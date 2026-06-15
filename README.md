@@ -48,6 +48,6 @@ Python | Scapy | Nmap | Metasploit | Burp Suite | Wireshark | Elastic SIEM | Spl
 
 ---
 
-🔗 [LinkedIn](https://www.linkedin.com/in/your-url-here) | CV available on request
+🔗 [LinkedIn](https://www.linkedin.com/in/muskan-k-a6bb02258?utm_source=share_via&utm_content=profile&utm_medium=member_android) | CV available on request
 
 
