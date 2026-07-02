@@ -2,7 +2,7 @@
 
 Security projects built through hands-on labs and independent research. Each
 repo includes the reasoning behind the build, not just the output. Working
-toward an entry-level blue team role.
+towards entry roles in CyberSec
 
 ---
 
