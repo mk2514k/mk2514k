@@ -64,9 +64,11 @@ towards entry roles in CyberSec
 ### Lab Environment
 
 **Daily driver:** Fedora Linux (Niri compositor)
+
 **VMs:** Kali Linux · Metasploitable 2 · Windows Server (AD labs) · pfSense (firewall/segmentation)
+
 **Tools:** Wireshark · Nmap · Cisco Packet Tracer · Burp Suite · virt-manager · ipcalc · Volatility 3
 
 ---
 
-🔗 LinkedIn · CV available on request
+🔗 [LinkedIn] · CV available on request
