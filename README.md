@@ -42,7 +42,7 @@ towards entry roles in CyberSec
 |[Network_Security_Labs](https://github.com/mk2514k/Network-Security-Labs) | CompTIA Network+ hands-on practicals — packet analysis, network simulation, subnetting, IPv6 — documented with notes and screenshots |
 | [Network-Packet-Analyser](https://github.com/mk2514k/Network-Packet-Analyser)) | Manually crafts ICMP, TCP SYN, and UDP packets with Scapy, verified against live Wireshark captures |
 | [DNS-Recon-Advanced-Tool](https://github.com/mk2514k/DNS-Recon-Advanced-Tool) | DNS enumeration via AXFR zone transfer and threaded subdomain brute-forcing, tested against a deliberately misconfigured domain |
-| overthewire-bandit | Full write-up series documenting methodology and key learnings for every Bandit level |
+| [Overthewire-bandit](https://github.com/mk2514k/Overthewire-Bandit) | Full write-up series documenting methodology and key learnings for every Bandit level |
 | [PKI-TLS-Auditor](https://github.com/mk2514k/PKI_TLS_Auditor) | Private CA chain built in OpenSSL (root → intermediate → leaf), Nginx hardened to TLS 1.2/1.3 only, Python audit script scoring cert chains, cipher strength, and expiry with clear remediation notes |
 
 ---
